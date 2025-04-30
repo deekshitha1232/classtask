@@ -1,7 +1,8 @@
 
 import './App.css'
 import Navbar from './Components/Navbar/Navbar'
-import Product from './Components/Products/Product'
+
+import Products from './Components/Products/Products'
 
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
   return (
     <>
     <Navbar></Navbar>
-    <Product></Product>
+   <Products></Products>
    
     </>
   )
