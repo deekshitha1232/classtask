@@ -1,0 +1,18 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+#navlinks{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    font-size: 1.8rem;
+}
+#navlinks>span{
+    background: #b0a6a6;
+    padding: 5px;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,19 @@
+
+import './App.css'
+import Navbar from './Components/Navbar/Navbar'
+import Product from './Components/Products/Product'
+
+
+function App() {
+
+
+  return (
+    <>
+    <Navbar></Navbar>
+    <Product></Product>
+   
+    </>
+  )
+}
+
+export default App
